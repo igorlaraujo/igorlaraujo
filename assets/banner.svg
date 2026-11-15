@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title description">
+  <title id="title">Igor Araujo</title>
+  <desc id="description">Python, back-end e projetos na prática. Estudante de ADS na PUC Minas.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#24313b" stroke-width="1"/></pattern>
+    <linearGradient id="fade"><stop stop-color="#101820"/><stop offset="1" stop-color="#17212a"/></linearGradient>
+  </defs>
+  <rect width="1200" height="310" rx="18" fill="url(#fade)"/>
+  <rect x="720" width="480" height="310" rx="18" fill="url(#grid)" opacity=".6"/>
+  <rect x="45" y="46" width="5" height="216" rx="2" fill="#d99b73"/>
+  <text x="75" y="81" fill="#d99b73" font-family="Consolas,monospace" font-size="16" letter-spacing="3">CÓDIGO · CURIOSIDADE · CONSTRUÇÃO</text>
+  <text x="72" y="157" fill="#f1f4f7" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="1">IGOR ARAUJO</text>
+  <text x="76" y="203" fill="#c0ccd6" font-family="Segoe UI,Arial,sans-serif" font-size="25">Python, back-end e projetos na prática.</text>
+  <text x="76" y="246" fill="#93a6b6" font-family="Consolas,monospace" font-size="16">ADS / PUC MINAS</text>
+  <g fill="none" stroke="#d99b73" stroke-width="3" opacity=".8">
+    <path d="M1015 77h-31l-30 78 30 78h31M1072 77h31l30 78-30 78h-31"/>
+    <path d="M1049 112l-14 86" stroke="#71c5b3"/>
+    <path d="M837 252h74l26-26h31M876 54h48l23 23" stroke-width="2" opacity=".6"/>
+    <circle cx="837" cy="252" r="5" fill="#101820"/><circle cx="876" cy="54" r="5" fill="#101820"/>
+  </g>
+</svg>
